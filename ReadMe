@@ -1,0 +1,6 @@
+docs: Computer assisted math quiz that responds from a set of randomly chosen statements 
+
+Computer assisted C++ arithmetic quiz which provides radomly selected, pre-written commentary 
+for both correct and incorrect answers. The quiz gives the user multiple chances for incorrect
+answers as well as custom responses.
+
